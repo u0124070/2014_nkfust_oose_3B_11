@@ -88,4 +88,4 @@
 
 使用者案例圖
 ======================
-![](https://drive.google.com/file/d/0BxzXSe-OMmmKZEdsbXI4ejNZUEE/view?usp=sharing)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t35.0-12/10743996_938160699585563_817447213_o.jpg?oh=7f9e58416a5e4d3de8e058f229b55b0f&oe=54438A31&__gda__=1413703565_47533658710c3e3fe4af98abfadcc7da)
