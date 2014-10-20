@@ -153,14 +153,15 @@
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10744611_939862622748704_1300363689_n.jpg?oh=c1ef7cfa3f0b4b5257c260b106c4c150&oe=54476D3A&__gda__=1413976986_f83b4218f60ccb9e71f690a110741f8b)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10743323_939862632748703_907418088_n.jpg?oh=d4b1d41b0992f8d4fcbf878679c2a608&oe=544655E2&__gda__=1413974077_2e4954a84e6ea6a1987d8971ab5bd228)
 
-每個名稱事件之合約
+各事件之合約
 ======================
+
 |合約1：inputOrder()|
 |------------|
 |操作：inputOrder()|
 |交互參照：處理叫車作業|
-|前置條件：None|
-|後置條件：依據要求執行選項getCustomer()、modifyCustomer()、addCarPeper()、modifyOrder()、deleteOrder()|
+|前置條件：|
+|後置條件：|
 
 |合約2：getCustomer()|
 |------------|
@@ -170,7 +171,7 @@
 |後置條件：|
 
 |合約3：saveOrder()|
-|--------------------|
+|------------|
 |操作：saveOrder(orderRec)|
 |交互參照：儲存車單資料|
 |前置條件：|
