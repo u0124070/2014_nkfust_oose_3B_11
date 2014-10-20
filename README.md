@@ -160,8 +160,7 @@
 |操作：inputOrder()|
 |交互參照：處理叫車作業|
 |前置條件：None|
-|後置條件：依據要求執行選項getCustomer()、modifyCustomer()、addCarPeper()
-、modifyOrder()、deleteOrder()|
+|後置條件：依據要求執行選項getCustomer()、modifyCustomer()、addCarPeper()、modifyOrder()、deleteOrder()|
 
 |合約2：getCustomer()|
 |------------|
