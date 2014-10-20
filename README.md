@@ -152,3 +152,10 @@
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743301_939862629415370_711763681_n.jpg?oh=e8b63ca9ca1b527c316f6b16fc5a320d&oe=54470E5D&__gda__=1413944192_60859fe7205838df0c6873afadd9d28a)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10744611_939862622748704_1300363689_n.jpg?oh=c1ef7cfa3f0b4b5257c260b106c4c150&oe=54476D3A&__gda__=1413976986_f83b4218f60ccb9e71f690a110741f8b)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10743323_939862632748703_907418088_n.jpg?oh=d4b1d41b0992f8d4fcbf878679c2a608&oe=544655E2&__gda__=1413974077_2e4954a84e6ea6a1987d8971ab5bd228)
+
+|合約1：inputOrder()|
+|------------|
+|操作：inputOrder()|
+|交互參照：|
+|前置條件：|
+|後置條件：|
