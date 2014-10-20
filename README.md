@@ -156,7 +156,7 @@
 每個名稱事件之合約
 ======================
 |合約1：inputOrder()|
-|------------|
+|------------------------------------|
 |操作：inputOrder()|
 |交互參照：處理叫車作業|
 |前置條件：None|
@@ -164,77 +164,77 @@
 、modifyOrder()、deleteOrder()|
 
 |合約2：getCustomer()|
-|------------|
+|------------------------------------|
 |操作：getCustomer(customerID,customerName,customerPhone,customerAdress)|
 |交互參照：輸入客戶基本資料|
 |前置條件：|
 |後置條件：|
 
 |合約3：saveOrder()|
-|------------|
+|------------------------------------|
 |操作：saveOrder(orderRec)|
 |交互參照：儲存車單資料|
 |前置條件：|
 |後置條件：|
 
 |合約4：saveCustomerOrder()|
-|------------|
+|------------------------------------|
 |操作：saveCustomerOrder (customerRec)|
 |交互參照：儲存客戶資料|
 |前置條件：|
 |後置條件：|
 
 |合約5：modifyCustomer()|
-|------------|
+|------------------------------------|
 |操作：modifyCustomer(customerID,customerName)|
 |交互參照：修改客戶資料|
 |前置條件：|
 |後置條件：|
 
 |合約6：checkItem()|
-|------------|
+|------------------------------------|
 |操作：checkItem(customerItem)|
 |交互參照：檢查客戶紀錄|
 |前置條件：|
 |後置條件：|
 
 |合約7：deleteCustomer()|
-|------------|
+|------------------------------------|
 |操作：deleteCustomer(customerID,customerName)|
 |交互參照：刪除客戶紀錄|
 |前置條件：|
 |後置條件：|
 
 |合約8：deliverNearestDrivers()|
-|------------|
+|------------------------------------|
 |操作：deliverNearestDrivers(customerID,customerAddress,customerPhone)|
 |交互參照：通知最接近客戶司機之候車地點並由司機聯絡客戶|
 |前置條件：|
 |後置條件：|
 
 |合約9：checkOrderItem()|
-|------------|
+|------------------------------------|
 |操作：checkOrderItem(orderItem)|
 |交互參照：系統檢查輸入資料|
 |前置條件：|
 |後置條件：|
 
 |合約10：addCarPeper()|
-|------------|
+|------------------------------------|
 |操作：addCarPeper(customerAddress, customerTime)|
 |交互參照：新增車單|
 |前置條件：|
 |後置條件：|
 
 |合約11：modifyOrder()|
-|------------|
+|------------------------------------|
 |操作：modifyOrder(orderID)|
 |交互參照：修改車單|
 |前置條件：|
 |後置條件：|
 
 |合約12：deleteOrder()|
-|------------|
+|------------------------------------|
 |操作：deleteOrder(orderID)|
 |交互參照：刪除(取消)車單|
 |前置條件：|
