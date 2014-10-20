@@ -225,8 +225,9 @@
 |前置條件：|
 |後置條件：|
 
-|合約11：modifyOrder()|
+
 |------------|
+|合約11：modifyOrder()|
 |操作：modifyOrder(orderID)|
 |交互參照：|
 |前置條件：|
