@@ -160,6 +160,13 @@
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10744611_939862622748704_1300363689_n.jpg?oh=c1ef7cfa3f0b4b5257c260b106c4c150&oe=54476D3A&__gda__=1413976986_f83b4218f60ccb9e71f690a110741f8b)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10743323_939862632748703_907418088_n.jpg?oh=d4b1d41b0992f8d4fcbf878679c2a608&oe=544655E2&__gda__=1413974077_2e4954a84e6ea6a1987d8971ab5bd228)
 
+使用案例主要成功情節之英文名稱事件對應
+======================
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10735793_940207232714243_472548623_n.jpg?oh=7c2823c190a2c7a9fa89a04f9f224737&oe=5447F929&__gda__=1414000694_7a1598aca49ef14395a46c13abe835c6)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736084_940207226047577_906775896_n.jpg?oh=feb84e444ec83242eaccc0f63b157c49&oe=54479C69&__gda__=1414007412_911bb0c0e0ebf823ae71ff73aa3f3510)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745010_940207236047576_555328707_n.jpg?oh=1dbce1a51df368bb9b28995cd42d660f&oe=5447DD63&__gda__=1413989054_31f884ee937ac8d15dd3e6a544be2c9d)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743516_940207229380910_810264670_n.jpg?oh=8ec4ec4144727ff3fe04549618f33697&oe=5447BD37&__gda__=1413985258_3f43d080aa1b8813204d7b1059a8854a)
+
 各事件之合約
 ======================
 
