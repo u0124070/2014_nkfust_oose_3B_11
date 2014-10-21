@@ -91,7 +91,14 @@
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10699168_939516686116631_1612638998_n.jpg?oh=228eb81f5a7d9b347b008fc6406282a3&oe=5446A779&__gda__=1413857193_bdd3c5458b33974ade9bc3fa240dedfd)
 活動圖-客戶基本資料作業
 ======================
-
+1.客戶基本資料作業-活動圖
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744648_775852315806101_1077125425_n.jpg?oh=1c29defd8f3f2cd206630293084faa2b&oe=5448E8D8&__gda__=1414009096_d3ca99695273a2fa3d945125d22be491)
+2.客戶所在區域分析作業-活動圖
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735701_775852325806100_560374341_n.jpg?oh=f2f549be9356ad3a8d21406fcf272b70&oe=5448E4F1&__gda__=1413984940_0c46bf7b36267d093cad6624c9f7c464)
+3.叫車作業系統-活動圖
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10733478_775852322472767_721811855_n.jpg?oh=35d552f2e1b1bfce5345fa6fb70aea5e&oe=5448E818&__gda__=1414003655_4e530d455fdfe339ab795c2fcf58ffc0)
+4.取消或修改叫車系統
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743684_775852319139434_285452377_n.jpg?oh=7add7f5c066638ec3d5f1d679ca8a7fe&oe=54479EC5&__gda__=1413984280_b0f4e3c99056d3054c5207c12ace605f)
 使用案例的名詞與概念類別列舉表
 ======================
 |客戶基本資料作業類別列舉表|||
