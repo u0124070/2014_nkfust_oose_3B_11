@@ -262,16 +262,16 @@
 |交互參照：修改車單|
 |前置條件：存在類別Order之實例newOrder|
 |後置條件：確認customerAddress、customerTime與已存載資料相符|
-|　　　　　將customerAddress、customerTime修改後存入Order|
-|　　　　　回傳Order|
+|　　　　　將customerAddress、customerTime修改後存入Order   |
+|　　　　　回傳Order                                        |
 
 
 |合約12：deleteOrder()|
 |------------|
 |操作：deleteOrder(orderID)|
 |交互參照：刪除(取消)車單|
-|前置條件：存在類別Order之實例newOrder|
-|後置條件：確認orderID不為空白|
+|前置條件：存在類別Order之實例newOrder  |
+|後置條件：確認orderID不為空白          |
 |          將orderID、orderItem存入Order|
-|　　　　　回傳Order|
+|　　　　　回傳Order                    |
 
