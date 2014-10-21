@@ -180,7 +180,8 @@
 |前置條件：存在類別CustmerData之實例newCustmerData|
 |後置條件：-確認欄位customerName、customerPhone、customerAdress為空白
 　         -將customerName、customerPhone、customerAdress存入CustomerData
-　　　　　 -回傳CustmerData|
+　　　　　 -回傳CustmerData
+|
 
 |合約3：saveOrder()|
 |------------|
@@ -188,7 +189,8 @@
 |交互參照：儲存車單資料|
 |前置條件：存在類別Order之實例newOrder|
 |後置條件：-將orderRec存入Order
-　　　　　 -回傳Order|
+　　　　　 -回傳Order
+|
 
 |合約4：saveCustomerOrder()|
 |------------|
@@ -196,7 +198,8 @@
 |交互參照：儲存客戶資料|
 |前置條件：存在類別CustmerData之實例newCustmerData|
 |後置條件：-將customerName、customerPhone、customerAdress存入CustomerData
-　　　　   -回傳CustmerData|
+　　　　   -回傳CustmerData
+|
 
 |合約5：modifyCustomer()|
 |------------|
@@ -205,7 +208,8 @@
 |前置條件：存在類別CustmerData之實例newCustmerData|
 |後置條件：-確認customerID、customerName已存在資料
            -將(customerID、customerName修改後存入CustomerData
-　　　　　 -回傳CustmerData|
+　　　　　 -回傳CustmerData
+|
 
 |合約6：checkItem()|
 |------------|
@@ -222,7 +226,8 @@
 |交互參照：刪除客戶紀錄|
 |前置條件：存在類別Order之實例newOrder|
 |後置條件：-確認customerItem與已存在資料相符
-　　　　　 -回傳Order|
+　　　　　 -回傳Order
+|
 
 |合約8：deliverNearestDrivers()|
 |------------|
@@ -230,7 +235,8 @@
 |交互參照：通知最接近客戶司機之候車地點並由司機聯絡客戶|
 |前置條件：存在類別DNData之實例newDNData|
 |後置條件：-將customerID、customerAddress、customerPhone存入DNData
-　　　　　 -回傳DNData|
+　　　　　 -回傳DNData
+|
 
 |合約9：checkOrderItem()|
 |------------|
@@ -238,7 +244,8 @@
 |交互參照：系統檢查輸入資料|
 |前置條件：存在類別Order之實例newOrder|
 |後置條件：-確認orderItem與已存載資料相符
-　　　　　 -回傳Order|
+　　　　　 -回傳Order
+|
 
 |合約10：addCarPeper()|
 |------------|
@@ -247,7 +254,8 @@
 |前置條件：存在類別Order之實例newOrder|
 |後置條件：-確認customerAddress、customerTime為空白
 　　　　　 -將customerAddress、customerTime存入Order
-　　　　 　-回傳Order|
+　　　　 　-回傳Order
+|
 
 |合約11：modifyOrder()|
 |------------|
@@ -256,7 +264,8 @@
 |前置條件：存在類別Order之實例newOrder|
 |後置條件：-確認customerAddress、customerTime與已存載資料相符
 　　　　 　-將customerAddress、customerTime修改後存入Order
-　　　　　 -回傳Order|
+　　　　　 -回傳Order
+|
 
 |合約12：deleteOrder()|
 |------------|
