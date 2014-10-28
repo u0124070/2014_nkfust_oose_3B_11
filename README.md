@@ -288,3 +288,6 @@
 |          將orderID、orderItem存入Order|
 |　　　　　回傳Order                    |
 
+循序圖
+======================
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744856_749815001763145_1794720695_n.jpg?oh=a8df4171bef170cfe33b6462c66a5bb1&oe=5451E927&__gda__=1414668215_a9fb5c019464d55fa3c3869598cef33c)
