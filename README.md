@@ -76,7 +76,7 @@
 
 使用者案例圖
 ======================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10743372_940307262704240_100820554_n.jpg?oh=c154c1a12d176cf61846df3b512032dc&oe=5448B7EA&__gda__=1413987765_351f7bfabcb8f30917bbfebfc2055910)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10743372_940307262704240_100820554_n.jpg?oh=aea95fe4b8b309828ccec553cecd1843&oe=5451F26A&__gda__=1414592565_6e1547e6297f9ce2145f7affa2467397)
 個別使用案例的描述
 ======================
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735728_939515872783379_2144619649_n.jpg?oh=82926a3c2148cb849e964c918ae64dee&oe=5446DEAF&__gda__=1413921599_884ab99500c6390a22ed41224943d8da)
@@ -86,13 +86,13 @@
 活動圖-客戶基本資料作業
 ======================
 1.客戶基本資料作業-活動圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744648_775852315806101_1077125425_n.jpg?oh=1c29defd8f3f2cd206630293084faa2b&oe=5448E8D8&__gda__=1414009096_d3ca99695273a2fa3d945125d22be491)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744648_775852315806101_1077125425_n.jpg?oh=17d1b6dd86ae1553d2cef775176fc252&oe=54522358&__gda__=1414657096_f31a2d756b82e82d646dcffd8dc7f53d)
 2.客戶所在區域分析作業-活動圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735701_775852325806100_560374341_n.jpg?oh=f2f549be9356ad3a8d21406fcf272b70&oe=5448E4F1&__gda__=1413984940_0c46bf7b36267d093cad6624c9f7c464)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735701_775852325806100_560374341_n.jpg?oh=f4f4ca3edb5e36be4b627b95b06a1483&oe=54521F71&__gda__=1414589740_879692834ea79747b298a9e98d9bd6c1)
 3.叫車作業系統-活動圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10733478_775852322472767_721811855_n.jpg?oh=35d552f2e1b1bfce5345fa6fb70aea5e&oe=5448E818&__gda__=1414003655_4e530d455fdfe339ab795c2fcf58ffc0)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733478_775852322472767_721811855_n.jpg?oh=24968b428f9774668d65008f08aac4d7&oe=54522298&__gda__=1414589317_a00c6143dba176f825e1b40f518b9a57)
 4.取消或修改叫車系統
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743684_775852319139434_285452377_n.jpg?oh=7add7f5c066638ec3d5f1d679ca8a7fe&oe=54479EC5&__gda__=1413984280_b0f4e3c99056d3054c5207c12ace605f)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10743684_775852319139434_285452377_n.jpg?oh=59a7194e9bdc30486522a660c7f91ae7&oe=5450D945&__gda__=1414669466_851c7e85e37570a3f08bc356ae48f0a3)
 使用案例的名詞與概念類別列舉表
 ======================
 |客戶基本資料作業類別列舉表|||
@@ -161,18 +161,18 @@
 |員工編號|業務人員屬性|否|
 |姓名|業務人員屬性|否|
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10728727_940887512646215_1629622633_n.jpg?oh=79a8f6c4aafa5f7e7cb11da2d2c85172&oe=54490302&__gda__=1414135138_0a2308390f0d8da3aabac661c0db849f)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10726370_940887502646216_1990883268_n.jpg?oh=0ca1307082acc499f7f510c4be147e03&oe=5449FE41&__gda__=1414140514_682a71d8c18a60117fb1b8b163291a90)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733678_940887509312882_376432856_n.jpg?oh=dea3a826724e80b220900249ce585a5e&oe=544A2EFA&__gda__=1414068903_63dede6afac7947514f846c9cc1c4bda)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10726442_940887515979548_529434980_n.jpg?oh=9f67e25b8191136e6f95cb4edbdcc671&oe=5449ED56&__gda__=1414145739_76dcf1e42898fef1591460c8a53acf22)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735811_940887532646213_534275657_n.jpg?oh=2b1e7fd7b15663e821165c4830ec5f90&oe=54490824&__gda__=1414134009_01701e95c22b07891d52b288b5d16b37)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10728727_940887512646215_1629622633_n.jpg?oh=e4496141fd581c576ee5e797d5b4251c&oe=5450EC02&__gda__=1414653538_8c7a3fca1571fbbb77c44c3ff85d2192)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10726370_940887502646216_1990883268_n.jpg?oh=76dc1f6f6ad1b8ad917f33b8832b3f16&oe=5451E741&__gda__=1414658914_c4f9f951ebfd17490e0c781d2c7e5973)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733678_940887509312882_376432856_n.jpg?oh=a086d16cf44801dff76503fb4b98e1fb&oe=545217FA&__gda__=1414587303_33606a6498b285658e3b5e697c77ca10)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10726442_940887515979548_529434980_n.jpg?oh=16a0ccae4eacf9ddc29db13ea50c5b3d&oe=5451D656&__gda__=1414664139_b4316667bdbf9245eecdf10b553301e6)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735811_940887532646213_534275657_n.jpg?oh=bde6aa1ef2cd44299db96c0bdadc92fb&oe=5450F124&__gda__=1414652409_3fbcec1124062358a3798f0787799bcf)
 
 使用案例主要成功情節之英文名稱事件對應
 ======================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10735793_940207232714243_472548623_n.jpg?oh=7c2823c190a2c7a9fa89a04f9f224737&oe=5447F929&__gda__=1414000694_7a1598aca49ef14395a46c13abe835c6)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736084_940207226047577_906775896_n.jpg?oh=feb84e444ec83242eaccc0f63b157c49&oe=54479C69&__gda__=1414007412_911bb0c0e0ebf823ae71ff73aa3f3510)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745010_940207236047576_555328707_n.jpg?oh=1dbce1a51df368bb9b28995cd42d660f&oe=5447DD63&__gda__=1413989054_31f884ee937ac8d15dd3e6a544be2c9d)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743516_940207229380910_810264670_n.jpg?oh=8ec4ec4144727ff3fe04549618f33697&oe=5447BD37&__gda__=1413985258_3f43d080aa1b8813204d7b1059a8854a)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10735793_940207232714243_472548623_n.jpg?oh=204d7755fd2c339b39bcfbb2e9ffb0f8&oe=5451DC69&__gda__=1414648694_1dc1ee206c5052e055a748d6efd0d8eb)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736084_940207226047577_906775896_n.jpg?oh=d8734eefdbfc200a6df33d5943a0f009&oe=5450D6E9&__gda__=1414655412_ff8a559ec329ce0d997416cdd6667a65)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745010_940207236047576_555328707_n.jpg?oh=2540b3ff5a6a0538e403d5d358941802&oe=545117E3&__gda__=1414593854_5b689ab85d85b8f19b846aa9719c8922)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743516_940207229380910_810264670_n.jpg?oh=9f310f791bdcb8171453ab8cede9948d&oe=5450F7B7&__gda__=1414590058_3e74b84f0f2908abd23c201db8a11f75)
 
 各事件之合約
 ======================
