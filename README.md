@@ -80,8 +80,8 @@
 個別使用案例的描述
 ======================
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744732_945384132196553_855379313_n.jpg?oh=475a40e0715ff3c86e984e42962d155f&oe=545326F6&__gda__=1414728747_058b40935026651269607f33e881b627)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744868_945384135529886_194626323_n.jpg?oh=c6147229b4d53ad5db6161bc84130dad&oe=545324A0&__gda__=1414797693_ac83b0e62c349513eac876492afa554a)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733678_945384128863220_1457181492_n.jpg?oh=30018a7003fdad396330988d3c9ed1be&oe=54540E4F&__gda__=1414730719_c7fbef63ab0821494cb6151321c918d8)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10748924_944647562270210_335631360_n.jpg?oh=ac3b49c8968685fc8c031e97bee6841a&oe=54585BDA&__gda__=1415017991_ab9f51196ddfad77fc93d3fd4628aac0)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10751890_944647558936877_267258599_n.jpg?oh=00e34000f357ce5d87cb8e52e8ba5da8&oe=545774AF&__gda__=1415072050_1363fbcdeb9356abcb85632f515e45fa)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744782_945384125529887_227518688_n.jpg?oh=0d0f36f91391337ba8350f2ef05b5b8f&oe=54530765&__gda__=1414725048_22a889d73ced6da8ad9fb29fc0c56aec)
 活動圖-客戶基本資料作業
 ======================
