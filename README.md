@@ -161,11 +161,11 @@
 |員工編號|業務人員屬性|否|
 |姓名|業務人員屬性|否|
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10728727_940887512646215_1629622633_n.jpg?oh=e4496141fd581c576ee5e797d5b4251c&oe=5450EC02&__gda__=1414653538_8c7a3fca1571fbbb77c44c3ff85d2192)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10726370_940887502646216_1990883268_n.jpg?oh=76dc1f6f6ad1b8ad917f33b8832b3f16&oe=5451E741&__gda__=1414658914_c4f9f951ebfd17490e0c781d2c7e5973)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733678_940887509312882_376432856_n.jpg?oh=a086d16cf44801dff76503fb4b98e1fb&oe=545217FA&__gda__=1414587303_33606a6498b285658e3b5e697c77ca10)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10726442_940887515979548_529434980_n.jpg?oh=16a0ccae4eacf9ddc29db13ea50c5b3d&oe=5451D656&__gda__=1414664139_b4316667bdbf9245eecdf10b553301e6)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735811_940887532646213_534275657_n.jpg?oh=bde6aa1ef2cd44299db96c0bdadc92fb&oe=5450F124&__gda__=1414652409_3fbcec1124062358a3798f0787799bcf)
+![](https://www.facebook.com/groups/686148691477800/)
+![](https://www.facebook.com/groups/686148691477800/)
+![](https://www.facebook.com/groups/686148691477800/)
+![](https://www.facebook.com/groups/686148691477800/)
+![](https://www.facebook.com/groups/686148691477800/)
 
 使用案例主要成功情節之英文名稱事件對應
 ======================
