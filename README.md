@@ -76,7 +76,7 @@
 
 使用者案例圖
 ======================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10743372_940307262704240_100820554_n.jpg?oh=eff2ec7fb781f2b5fd011cbaf2e101e8&oe=545889EA&__gda__=1415067765_aff7db95bfdaf13cb6d0ef02c79d1e28)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10301368_753050854772893_3585117902562920556_n.jpg?oh=5514f6baedcb510e1d25eb3cec94de84&oe=545998A2&__gda__=1415146909_29032f399dfeef9716c592058b93a5cc)
 個別使用案例的描述
 ======================
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744732_945384132196553_855379313_n.jpg?oh=475a40e0715ff3c86e984e42962d155f&oe=545326F6&__gda__=1414728747_058b40935026651269607f33e881b627)
