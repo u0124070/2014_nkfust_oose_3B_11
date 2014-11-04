@@ -163,7 +163,7 @@
 
 
 客戶基本資料作業-初步類別圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743782_947523538649279_590238526_n.jpg?oh=2b2ad5614f3280487fccad2f39861ebd&oe=54583864&__gda__=1415064953_5d117a0575293cdc504bb6e2a2520751)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743782_947523538649279_590238526_n.jpg?oh=c3eb7501463a61aa34d621bef976cb17&oe=545A32A4&__gda__=1415194553_c478c2a837771a8668ec4e914792d472)
 
 客戶所在區域分析作業-初步類別圖
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10751666_947523545315945_59556177_n.jpg?oh=d8a0f0a26cfa080e73693053d4fba321&oe=5458522A&__gda__=1415080247_43cdfc849d10ff3d02152b326a8aced2)
