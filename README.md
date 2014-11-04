@@ -302,3 +302,6 @@
 ======================
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744856_749815001763145_1794720695_n.jpg?oh=d4816a8e105688f459e0c19831a12f3e&oe=545880A7&__gda__=1415100215_6ed22159c84db680a87c1b8afe0bd7bb)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745064_753115778099734_1892053540_n.jpg?oh=ce32d644d6f527beadc3207ddb27db94&oe=545A48D4&__gda__=1415199748_df1093204bf09787d1fab3920187c70a)
+叫車作業系統循序圖
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10576833_753285771416068_325757141_n.jpg?oh=4bea0ecb3d826f974c3ec922762ded97&oe=545A5388&__gda__=1415268693_d882f8480718cfaae5c5e3b35796e244)
+取消或修改叫車系統![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10576833_753297604748218_631600088_n.jpg?oh=e020be28219f0ba0f97d52a26eb16682&oe=545B2D2F&__gda__=1415274418_8e7a47bb2bf7ba84225e571172a2a600)
