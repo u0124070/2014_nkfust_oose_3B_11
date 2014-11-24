@@ -76,23 +76,23 @@
 
 使用者案例圖
 ======================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10301368_753050854772893_3585117902562920556_n.jpg?oh=5514f6baedcb510e1d25eb3cec94de84&oe=545998A2&__gda__=1415146909_29032f399dfeef9716c592058b93a5cc)
+![](http://i.imgur.com/g6AxAn5.png)
 個別使用案例的描述
 ======================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744732_945384132196553_855379313_n.jpg?oh=6729eb59309b9c8390054a018935027e&oe=545B0FF6&__gda__=1415203947_cc0afc2acd9964f6cc9f454ca488a952)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744868_945384135529886_194626323_n.jpg?oh=aa88088d02bc31fb271f3c65de29c681&oe=545B0DA0&__gda__=1415272893_b839daaa55b6fe24504d56b14c376017)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10751890_944647558936877_267258599_n.jpg?oh=00e34000f357ce5d87cb8e52e8ba5da8&oe=545774AF&__gda__=1415072050_1363fbcdeb9356abcb85632f515e45fa)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744782_945384125529887_227518688_n.jpg?oh=0d0f36f91391337ba8350f2ef05b5b8f&oe=54530765&__gda__=1414725048_22a889d73ced6da8ad9fb29fc0c56aec)
+![](http://i.imgur.com/shMwS6i.png)
+![](http://i.imgur.com/JZL3G8S.png)
+![](http://i.imgur.com/SQbBisg.png)
+![](http://i.imgur.com/j4KyAVD.png)
 活動圖-客戶基本資料作業
 ======================
 1.客戶基本資料作業-活動圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744648_775852315806101_1077125425_n.jpg?oh=9c167c8913a99ccdba4ead7f78f98ecf&oe=5458BAD8&__gda__=1415089096_f5407e69b309591ab21865dccac9458f)
+![](http://i.imgur.com/bQwPSAn.png)
 2.客戶所在區域分析作業-活動圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10735701_775852325806100_560374341_n.jpg?oh=04c91d2831eec5e1f7582c9ae69635fe&oe=545B59F1&__gda__=1415194540_c3acf5bb3264a6820f1a0955ada58498)
+![](http://i.imgur.com/g1zpmA6.png)
 3.叫車作業系統-活動圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733478_775852322472767_721811855_n.jpg?oh=225a1864702d2f9db5be5ac34c48ca38&oe=545B5D18&__gda__=1415194117_c04c7c19eb1141fd96810f285b1f4463)
+![](http://i.imgur.com/H6TPAn9.png)
 4.取消或修改叫車系統
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743684_775852319139434_285452377_n.jpg?oh=14fb17c57de3f5c8c677e1895a151a67&oe=545770C5&__gda__=1415021080_a5ccdf6bd1035c7593585ee78dd00fa6)
+![](http://i.imgur.com/u3WsK11.png)
 使用案例的名詞與概念類別列舉表
 ======================
 |客戶基本資料作業類別列舉表|||
@@ -179,10 +179,10 @@
 
 使用案例主要成功情節之英文名稱事件對應
 ======================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10735793_940207232714243_472548623_n.jpg?oh=22ee51e7bbd3aeb6baaf84c2585e203d&oe=545873E9&__gda__=1415080694_5fd79f8dad71a250b85ce9f8cd3c102a)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736084_940207226047577_906775896_n.jpg?oh=a3e1dee323c503da01fe3db564a89280&oe=54576E69&__gda__=1415087412_e7e3e9ff0eab9fcd13e110873ce6f25c)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745010_940207236047576_555328707_n.jpg?oh=52d53193f11027f8b34a2cd5408a749f&oe=54585823&__gda__=1415069054_93d86ffd560b228e0457841113a4a24a)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743516_940207229380910_810264670_n.jpg?oh=9ef2b2f18b0295d07b5ef059b9913a8b&oe=545A3237&__gda__=1415194858_f5d11f09557b45ca6cb6272094dba5b9)
+![](http://i.imgur.com/ZOvqrxQ.png)
+![](http://i.imgur.com/GOpNTw0.png)
+![](http://i.imgur.com/uKDACF0.png)
+![](http://i.imgur.com/30mBbjt.png)
 
 各事件之合約
 ======================
@@ -300,13 +300,13 @@
 
 循序圖
 ======================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744856_749815001763145_1794720695_n.jpg?oh=d4816a8e105688f459e0c19831a12f3e&oe=545880A7&__gda__=1415100215_6ed22159c84db680a87c1b8afe0bd7bb)
+![](http://i.imgur.com/g6AxAn5.png)
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745064_753115778099734_1892053540_n.jpg?oh=ce32d644d6f527beadc3207ddb27db94&oe=545A48D4&__gda__=1415199748_df1093204bf09787d1fab3920187c70a)
 
 叫車作業系統循序圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10576833_753285771416068_325757141_n.jpg?oh=4bea0ecb3d826f974c3ec922762ded97&oe=545A5388&__gda__=1415268693_d882f8480718cfaae5c5e3b35796e244)
+![](http://i.imgur.com/af9XVgl.png)
 
 
 取消或修改叫車系統
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10576833_753297604748218_631600088_n.jpg?oh=e020be28219f0ba0f97d52a26eb16682&oe=545B2D2F&__gda__=1415274418_8e7a47bb2bf7ba84225e571172a2a600)
+![](http://i.imgur.com/3D1K1QZ.png)
