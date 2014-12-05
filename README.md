@@ -163,16 +163,16 @@
 
 
 客戶基本資料作業-初步類別圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743782_947523538649279_590238526_n.jpg?oh=c3eb7501463a61aa34d621bef976cb17&oe=545A32A4&__gda__=1415194553_c478c2a837771a8668ec4e914792d472)
+![](http://i.imgur.com/1uvLzgb.png)
 
 客戶所在區域分析作業-初步類別圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10751666_947523545315945_59556177_n.jpg?oh=d8a0f0a26cfa080e73693053d4fba321&oe=5458522A&__gda__=1415080247_43cdfc849d10ff3d02152b326a8aced2)
+![](http://i.imgur.com/EMVOGsv.png)
 
 叫車作業系統-初步類別圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10799638_947523548649278_981782026_n.jpg?oh=2806b7969cb004276eed35a234434499&oe=54595292&__gda__=1415068623_ba84a72462418ad74a1159c492c02009)
+![](http://i.imgur.com/NorM84k.png)
 
 取消或修改叫車系統-初步類別圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745099_947523541982612_1767729186_n.jpg?oh=a815ceddbf25329916684f5ec7cc11d7&oe=5458566A&__gda__=1415145082_308461b9717f18f91d5a45e8182f98e4)
+![](http://i.imgur.com/dZCthCY.png)
 
 系統初步類別圖
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10751832_947523551982611_350220076_n.jpg?oh=c80e5a11c2a0911df706793892333c37&oe=54582FEB&__gda__=1415070006_f2e17903b5f9670c30d8b3e4e880d4b3)
