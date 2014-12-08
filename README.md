@@ -179,7 +179,7 @@
 ![](http://i.imgur.com/dZCthCY.png)
 
 系統初步類別圖
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10751832_947523551982611_350220076_n.jpg?oh=c80e5a11c2a0911df706793892333c37&oe=54582FEB&__gda__=1415070006_f2e17903b5f9670c30d8b3e4e880d4b3)
+![](http://i.imgur.com/GND0gm7.png)
 
 使用案例主要成功情節之英文名稱事件對應
 ======================
