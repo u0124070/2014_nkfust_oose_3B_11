@@ -179,6 +179,7 @@
 ![](http://i.imgur.com/dZCthCY.png)
 
 系統初步類別圖
+
 ![](http://i.imgur.com/GND0gm7.png)
 
 使用案例主要成功情節之英文名稱事件對應
