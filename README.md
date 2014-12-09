@@ -317,7 +317,7 @@
 
 強韌圖
 ==============================================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743682_797953976929268_633728098_n.jpg?oh=8784d86821b7f8d937d9b7f464f3e83a&oe=54800922&__gda__=1417674431_e6e41a6f6aa0494792bbec8a2a208375)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10816156_797953980262601_893969816_n.jpg?oh=b9f57265757c0a2bf8f0fb1e8267fdd7&oe=548023A4&__gda__=1417615609_9f2fb3c729fd341f408c5aafc27b9beb)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10846772_797953983595934_77421984_n.jpg?oh=3b5820fb4861bdd809ed48552d341e6a&oe=547F30DE&__gda__=1417678853_b94c0be525d5548d2bdb3d5c21f2c9d6)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10815936_797953986929267_102359807_n.jpg?oh=03c2a2f21a2e8301431dfed1c9cf278a&oe=5480279D&__gda__=1417608704_ff00350ace77f254f51be858c7165838)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10841163_802417239816275_1910247325_n.jpg?oh=8dbab50010cbd2a1c7007710b7d357bd&oe=54883D19&__gda__=1418234041_ac933387fcfbc5cefd077e5c067e0f97)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10834124_802417246482941_1865987434_n.jpg?oh=c8fc45464acbe136a83daff07042a08d&oe=54884F5C&__gda__=1418216380_a2f9aba6a7ea26fdcda8fb0af7ea5d87)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10846722_802450419812957_883083987_n.jpg?oh=b06f18f05f4e0606e5c95cd12580cee0&oe=54898627&__gda__=1418291322_0db65b8f3df8c0faca9e8a92b73a2ea4)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10833694_802417236482942_986477922_n.jpg?oh=c13504afe831adb4ccadb20dc4ab0ce2&oe=54888423&__gda__=1418233788_97db5760e2d6e2ba5506cd8dc937cdbf)
