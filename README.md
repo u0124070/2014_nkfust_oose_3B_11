@@ -317,7 +317,8 @@
 
 強韌圖
 ==============================================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10841163_802417239816275_1910247325_n.jpg?oh=ce38df4224c9131d9ab96735afdaec14&oe=549AB219&__gda__=1419486841_652621a4ef4c40176f5968fbdf9905cb)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10834124_802417246482941_1865987434_n.jpg?oh=e6eba0f46459ec64cb315dd56061a148&oe=549AC45C&__gda__=1419425980_5b02ea5b6029ec34aa37d6314fe84295)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10846722_802450419812957_883083987_n.jpg?oh=4457113330896213fac7351738343595&oe=549BFB27&__gda__=1419500922_65e44072e076b8082533467372dbbc04)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10833694_802417236482942_986477922_n.jpg?oh=75c5f0c7bd7cdede5ffa042785b498e8&oe=549AF923&__gda__=1419443388_c2265c76246a0f58ec3a8ff9ce3512af)
+![](http://i.imgur.com/buN5aCw.jpg)
+![](http://i.imgur.com/z6Z9jqH.jpg)
+![](http://i.imgur.com/CYenBm6.jpg)
+![](http://i.imgur.com/vWFIlHX.jpg)
+![](http://i.imgur.com/s2LMCnd.png)
