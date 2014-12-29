@@ -3,7 +3,7 @@
 |資管3B 組員:|分配工作|
 |------------|--------------|
 |0124044 李亞駿|使用案例圖、循序圖|
-|0124068 林士瑋|活動圖、各事件合約|
+|0124068 林士瑋|活動圖、各事件合約、程式碼|
 |0124070 許程翔|架設Github、類別圖|
 |0124082 張鈞復|個別使用案例的描述、使用案例英文名稱對應|
 
@@ -164,23 +164,23 @@
 
 客戶基本資料作業-初步類別圖
 
-![](http://i.imgur.com/1uvLzgb.png)
+![](http://i.imgur.com/5QEsTWT.jpg)
 
 客戶所在區域分析作業-初步類別圖
 
-![](http://i.imgur.com/EMVOGsv.png)
+![](http://i.imgur.com/TcDfojI.jpg)
 
 叫車作業系統-初步類別圖
 
-![](http://i.imgur.com/NorM84k.png)
+![](http://i.imgur.com/OzgBmV0.jpg)
 
 取消或修改叫車系統-初步類別圖
 
-![](http://i.imgur.com/dZCthCY.png)
+![](http://i.imgur.com/o0simOX.jpg)
 
 系統初步類別圖
 
-![](http://i.imgur.com/GND0gm7.png)
+![](http://i.imgur.com/Qpje8V0.jpg)
 
 使用案例主要成功情節之英文名稱事件對應
 ======================
@@ -315,6 +315,8 @@
 取消或修改叫車系統
 ![](http://i.imgur.com/Z2H72wl.png)
 
+![](http://i.imgur.com/sMEVPNY.jpg)
+
 強韌圖
 ==============================================
 ![](http://i.imgur.com/buN5aCw.jpg)
@@ -322,3 +324,7 @@
 ![](http://i.imgur.com/CYenBm6.jpg)
 ![](http://i.imgur.com/vWFIlHX.jpg)
 ![](http://i.imgur.com/s2LMCnd.png)
+
+ER Model
+==============================================
+![](http://i.imgur.com/GRr0yzl.jpg)
