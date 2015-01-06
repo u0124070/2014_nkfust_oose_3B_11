@@ -1,1 +1,35 @@
-123
+private void loginCustomer() throws IOException { //URL String url = "http://localhost:8084/LoginScreenExample/" + "?username=" + getLoginScreen().getUsername() + "&password=" + getLoginScreen().getPassword(); //Clean up alertSuccess getAlertSuccess().setString(""); //Connect to the server HttpConnection hc = (HttpConnection) Connector.open(url); //Authentication if (hc.getResponseCode() == HttpConnection.HTTP_OK) { login = true; } //Closing time... hc.close(); //Take action based on login value if (login) { getAlertSuccess().setString("Login Succesfull"); } else { getAlertFailure().setString("Wrong Username or Password"); } login = false; } private void loginSaleman() throws IOException { //URL String url = "http://localhost:8084/LoginScreenExample/" + "?username=" + getLoginScreen().getUsername() + "&password=" + getLoginScreen().getPassword(); //Clean up alertSuccess getAlertSuccess().setString(""); //Connect to the server HttpConnection hc = (HttpConnection) Connector.open(url); //Authentication if (hc.getResponseCode() == HttpConnection.HTTP_OK) { login = true; } //Closing time... hc.close(); //Take action based on login value if (login) { getAlertSuccess().setString("Login Succesfull"); } else { getAlertFailure().setString("Wrong Username or Password"); } login = false; } import java.util.Scanner; public static void inputOrder(){ Scanner input = new Scanner(System.in); System.out.println("輸入姓名:"); String name=input.toString(); System.out.println("輸入電話:"); String phone=input.toString(); System.out.println("輸入地址:"); String address=input.toString(); } public class Preference1 extends Activity { SharedPreferences settingsActivity;
+
+@Override public void onCreate(Bundle savedInstanceState) { super.onCreate(savedInstanceState); setContentView(R.layout.main);
+
+//取得SharedPreferences物件 settingsActivity = getPreferences(MODE_PRIVATE); //抓取字串key=mystring的值，預設值為空字串 String mystring = settingsActivity.getString("mystring", "");
+
+//設定EditText的顯示字串 EditText et = (EditText) findViewById(R.id.editText1); et.setText(mystring);
+
+Button save = (Button) findViewById(R.id.button1); save.setOnClickListener(new View.OnClickListener() { public void onClick(View view) { //取得到SharedPreferences.Editor物件 SharedPreferences.Editor editor = settingsActivity.edit();
+
+//設定key=mystring的值 EditText et = (EditText) findViewById(R.id.editText1); editor.putString("mystring", et.getText().toString());
+
+//最後要提交commit editor.commit(); }
+
+});
+
+Button clear = (Button) findViewById(R.id.button2); clear.setOnClickListener(new View.OnClickListener() { public void onClick(View view) { //取得到SharedPreferences.Editor物件 SharedPreferences.Editor editor = settingsActivity.edit(); editor.clear(); editor.commit(); }
+
+}); }
+
+} var map; var infowindow;
+
+function initialize() { var pyrmont = new google.maps.LatLng(-33.8665433, 151.1956316);
+
+map = new google.maps.Map(document.getElementById('map-canvas'), { center: pyrmont, zoom: 15 });
+
+var request = { location: pyrmont, radius: 500, types: ['store'] }; infowindow = new google.maps.InfoWindow(); var service = new google.maps.places.PlacesService(map); service.nearbySearch(request, callback); }
+
+function callback(results, status) { if (status == google.maps.places.PlacesServiceStatus.OK) { for (var i = 0; i < results.length; i++) { createMarker(results[i]); } } }
+
+function createMarker(place) { var placeLoc = place.geometry.location; var marker = new google.maps.Marker({ map: map, position: place.geometry.location });
+
+google.maps.event.addListener(marker, 'click', function() { infowindow.setContent(place.name); infowindow.open(map, this); }); }
+
+google.maps.event.addDomListener(window, 'load', initialize);
