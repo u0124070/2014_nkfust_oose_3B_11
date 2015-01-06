@@ -345,7 +345,149 @@ ER Model
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10877736_814449141946418_1843814429_n.jpg?oh=b56b38947a5db5d71a83980c6db0661b&oe=54A4F542&__gda__=1420094930_1fc135203ad7407a6fae7c8378c59d8d)
 程式碼
 =============================================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10887970_980525248682441_777362736_n.jpg?oh=45927a62f208ffadd7e72f9ba413c6d2&oe=54A4F476&__gda__=1420037609_9c7cebb1cf0395146efe056b81bc5e82)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10904349_980525262015773_1566133265_n.jpg?oh=3c8f752f0da137ece1db23173bd1cb00&oe=54A4F6BA&__gda__=1420039130_d25aebebe64c71721338ad3503dc9884)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10899734_980525265349106_1388106120_n.jpg?oh=4c009459ce79ca9dfd85ac0fd2d30df9&oe=54A52E6B&__gda__=1420113547_771ffc75108ca352d2294a0c1daa27b6)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10893771_980525268682439_1285586185_n.jpg?oh=b6fdd537ab769b8f6ebf986e499cdf2e&oe=54A3EEAF&__gda__=1420036863_add53260fd30c1e284d1a003523e18e9)
+private void loginCustomer() throws IOException {
+   //URL
+   String url = "http://localhost:8084/LoginScreenExample/"
+                + "?username=" + getLoginScreen().getUsername()
+                + "&password=" + getLoginScreen().getPassword();
+   //Clean up alertSuccess 
+   getAlertSuccess().setString("");
+   //Connect to the server
+   HttpConnection hc = (HttpConnection) Connector.open(url);
+   //Authentication
+   if (hc.getResponseCode() == HttpConnection.HTTP_OK) {
+        login = true;
+   }
+   //Closing time...
+   hc.close();
+   //Take action based on login value
+   if (login) {
+        getAlertSuccess().setString("Login Succesfull");
+   } else {
+        getAlertFailure().setString("Wrong Username or Password");
+   }
+   login = false;
+ }
+private void loginSaleman() throws IOException {
+   //URL
+   String url = "http://localhost:8084/LoginScreenExample/"
+                + "?username=" + getLoginScreen().getUsername()
+                + "&password=" + getLoginScreen().getPassword();
+   //Clean up alertSuccess 
+   getAlertSuccess().setString("");
+   //Connect to the server
+   HttpConnection hc = (HttpConnection) Connector.open(url);
+   //Authentication
+   if (hc.getResponseCode() == HttpConnection.HTTP_OK) {
+        login = true;
+   }
+   //Closing time...
+   hc.close();
+   //Take action based on login value
+   if (login) {
+        getAlertSuccess().setString("Login Succesfull");
+   } else {
+        getAlertFailure().setString("Wrong Username or Password");
+   }
+   login = false;
+ }
+import java.util.Scanner; 
+public static void inputOrder(){
+        Scanner input = new Scanner(System.in);
+        System.out.println("輸入姓名:");
+        String name=input.toString();
+        System.out.println("輸入電話:");
+        String phone=input.toString();
+        System.out.println("輸入地址:");
+        String address=input.toString();
+}
+public class Preference1 extends Activity {
+ SharedPreferences settingsActivity;
+
+ @Override
+ public void onCreate(Bundle savedInstanceState) {
+ super.onCreate(savedInstanceState);
+ setContentView(R.layout.main);
+ 
+ //取得SharedPreferences物件
+ settingsActivity = getPreferences(MODE_PRIVATE);
+ //抓取字串key=mystring的值，預設值為空字串
+ String mystring = settingsActivity.getString("mystring", "");
+ 
+ //設定EditText的顯示字串
+ EditText et = (EditText) findViewById(R.id.editText1);
+ et.setText(mystring);
+ 
+ Button save = (Button) findViewById(R.id.button1);
+ save.setOnClickListener(new View.OnClickListener() {
+ public void onClick(View view) {
+ //取得到SharedPreferences.Editor物件
+ SharedPreferences.Editor editor = settingsActivity.edit();
+ 
+ //設定key=mystring的值
+ EditText et = (EditText) findViewById(R.id.editText1);
+ editor.putString("mystring", et.getText().toString());
+ 
+ //最後要提交commit
+ editor.commit();
+ }
+ 
+ });
+ 
+ Button clear = (Button) findViewById(R.id.button2);
+ clear.setOnClickListener(new View.OnClickListener() {
+ public void onClick(View view) {
+ //取得到SharedPreferences.Editor物件
+SharedPreferences.Editor editor =    settingsActivity.edit();
+ editor.clear();
+ editor.commit();
+ }
+ 
+ });
+ }
+ 
+}
+var map;
+var infowindow;
+
+function initialize() {
+  var pyrmont = new google.maps.LatLng(-33.8665433, 151.1956316);
+
+  map = new google.maps.Map(document.getElementById('map-canvas'), {
+    center: pyrmont,
+    zoom: 15
+  });
+
+  var request = {
+    location: pyrmont,
+    radius: 500,
+    types: ['store']
+  };
+  infowindow = new google.maps.InfoWindow();
+  var service = new google.maps.places.PlacesService(map);
+  service.nearbySearch(request, callback);
+}
+
+function callback(results, status) {
+  if (status == google.maps.places.PlacesServiceStatus.OK) {
+    for (var i = 0; i < results.length; i++) {
+      createMarker(results[i]);
+    }
+  }
+}
+
+function createMarker(place) {
+  var placeLoc = place.geometry.location;
+  var marker = new google.maps.Marker({
+    map: map,
+    position: place.geometry.location
+  });
+
+  google.maps.event.addListener(marker, 'click', function() {
+    infowindow.setContent(place.name);
+    infowindow.open(map, this);
+  });
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
